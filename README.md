@@ -1,16 +1,16 @@
 # OmniCore docker image
 
-[![Docker Repository on Quay](https://quay.io/repository/coinmetrics/fullnode-omnicore/status "Docker Repository on Quay")](https://quay.io/repository/coinmetrics/fullnode-omnicore)
+This is unofficial OmniCore docker image.
+
+It is being used internally at Coin Metrics, and is published in the hope it will be useful, but without any warranty. No support is available. You are using it at your own risk.
 
 ## Using image
+
+[![Docker Repository on Quay](https://quay.io/repository/coinmetrics/fullnode-omnicore/status "Docker Repository on Quay")](https://quay.io/repository/coinmetrics/fullnode-omnicore)
 
 ```
 docker pull quay.io/coinmetrics/fullnode-omnicore:<version>
 ```
-
-## Support
-
-This image is being used internally at Coin Metrics. No support is available. You are using it at your own risk.
 
 ## Security
 
